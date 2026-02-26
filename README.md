@@ -2,7 +2,7 @@
 
 A simple React application demonstrating state management with Redux Toolkit and React-Redux. The app allows you to add tasks, toggle their completion status, and delete them.
 
-> **Note:** Tests are disabled in this project since they're not required by the user.
+> **Note:** Tests and performance reporting are disabled; related files and libraries have been removed.
 
 ## Available Scripts
 
